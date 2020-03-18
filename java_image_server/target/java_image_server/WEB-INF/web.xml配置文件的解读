@@ -1,0 +1,6 @@
+/**
+<servlet>标签是告诉Tomcat当前这个servlet对应到代码中的那个类
+<servlet-mapping>标签是告诉Tomcat当前servlet对应的到的URL的path是什么
+  这个配置文件的目的：解释来说就是与URL建立一种映射关系，根据其中的路径找到一个对应的Servlet的类，进一步执行对应的Servlet中的代码
+  具体的改动在视频讲解的第二节的3:04：00左右会讲到
+*/

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/java_image_server/WEB-INF/lib/mysql-connector-java-5.1.45.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/java_image_server/WEB-INF/lib/commons-fileupload-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/java_image_server/WEB-INF/lib/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/java_image_server/WEB-INF/lib/commons-io-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java_image_server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/java_image_server_jar/java_image_server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
